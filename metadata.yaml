@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/792
 description: A biography of Mrs. O.A. Carr, Christian educator and founder of Carr-Burdette
   College in Sherman, Texas in 1894.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37677#The-Story-of-a-Life
 gutenberg_issued: '2011-10-09'
 gutenberg_type: Text
 identifiers:
