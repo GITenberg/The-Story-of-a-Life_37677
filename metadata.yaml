@@ -1,0 +1,40 @@
+_repo: The-Story-of-a-Life_37677
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Carr, O. A. (Oliver Anderson)
+    alias: Carr, Oliver Anderson
+    birthdate: 1845
+    deathdate: 1912
+    gutenberg_agent_id: '38516'
+    url: http://www.gutenberg.org/2009/agents/38516
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellis, J. Breckenridge (John Breckenridge)
+    alias: Ellis, John Breckenridge
+    birthdate: 1870
+    deathdate: 1956
+    gutenberg_agent_id: '792'
+    url: http://www.gutenberg.org/2009/agents/792
+description: A biography of Mrs. O.A. Carr, Christian educator and founder of Carr-Burdette
+  College in Sherman, Texas in 1894.
+gutenberg_issued: '2011-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37677'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Disciples of Christ -- Biography'
+- !lcsh 'Christian education of girls'
+- !lcsh 'Carr-Burdette College'
+- !lcsh 'Christian universities and colleges'
+- !lcsh 'Carr, O. A., Mrs., 1846-1907'
+- !lcc 'LA'
+title: The Story of a Life
+url: http://www.gutenberg.org/ebooks/37677
